@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **sabeerneyyan@gmail.com**
 
-- ⚡ Fun fact **I think I am a fast learner**
+- ⚡ Fact about me **I think I am a fast learner**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
