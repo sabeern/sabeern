@@ -4,15 +4,15 @@
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/bebb8c335f407e6f31ed9da75ebecc86cebc8941efae0ec924b6903b3fbb94c5/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313537393332322f73637265656e73686f74732f363538373237332f626c75655f626f795f747970696e675f6e6f74686f756768742e676966">
 
-- 🔭 I’m currently working on [Job Solutions](https://job-portal-gwu4.onrender.com)
+- 🔭 I’m currently working at [chargeMOD](https://www.linkedin.com/company/chargemod/mycompany/)
 
 - 🔭 My first project was [MyStore E-commerce](https://mygrocery.ml/)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Next.js**
 
 - 👨‍💻 All of my projects are available at [https://sabeern.github.io/portfolio/](https://sabeern.github.io/portfolio/)
 
-- 💬 Ask me about **Javascript, Node JS, Mongo DB, MySql**
+- 💬 Ask me about **Javascript, Node JS, Mongo DB, MySql, React Js**
 
 - 📫 How to reach me **sabeerneyyan@gmail.com**
 
